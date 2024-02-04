@@ -1,3 +1,6 @@
 Holland & Barrett International Limited, trading as Holland & Barrett
-
-s a British-based multinational chain of health food shops with over 1,300 stores in 16 countries, including a substantial presence
+<<<<<<< HEAD
+British-based multinational chain of health food shops with over 1,300 stores in 16 countries, including a substantial presence
+=======
+Boost Your Wellness With Deliciously Good Food From Holland & Barrett. We've Launched 100s Of Delicious New Food Items, Discover The Range. Subscribe & Save.
+>>>>>>> master
